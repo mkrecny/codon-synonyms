@@ -1,2 +1,0 @@
-DNA has redundancy. This json file maps codons to other 'synonymous' codons.
-Each key is a codon, and each value is an array of synonymous codons.
